@@ -66,7 +66,8 @@ Currently, I’m seeking **internship or entry-level opportunities** where I can
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=saeedasaad&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=saeedasaad&theme=tokyonight" alt="GitHub Streak" />
+  <img src="https://streak-stats.vercel.app?user=saeedasaad&theme=tokyonight" />
+
 </p>
 
 <p align="center">
