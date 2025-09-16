@@ -1,6 +1,6 @@
 <!-- GitHub Profile README -->
 
-<h1 align="center">👩‍💻 Hi, I'm Saeeda Saad</h1>
+<h1 align="center"> Hi, I'm Saeeda Saad</h1>
 <h4 align="center">Full Stack Web Developer | MERN Enthusiast | Lifelong Learner</h4>
 
 ---
