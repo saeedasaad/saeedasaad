@@ -58,7 +58,7 @@ Currently, I’m seeking **internship or entry-level opportunities** where I can
 
 - Enhance expertise in **full-stack MERN development**.  
 - Learn more about **authentication, DevOps, and cloud deployment**.  
-- Build impactful projects to **grow my portfolio**.  
+- Build impactful projects to **grow my portfolio**...  
 
 ---
 
