@@ -89,6 +89,6 @@ Currently, I’m seeking **internship or entry-level opportunities** where I can
 
 ---
 
-<p align="center">Thanks for visiting! 🚀</p>
+<p align="center">Thanks for visiting! </p>
 
 
