@@ -4,12 +4,10 @@
 
 I build full-stack web applications that are scalable, responsive, and production ready.
 
----
-
-###  Featured Projects
-
+### Featured Projects
 | Project | Description | Live Demo |
-|---------|-------------|-----------|
+|---------|---------------|-------------|
+| AI-Powered Job Application Tracker | AI Job Search Platform — Kanban pipeline, resume analysis, skill-gap detection, cover letter generation | [Live](https://ai-job-tracker-client-six.vercel.app) |
 | EduMaster LMS | Learning Management System — 3 role dashboards, JWT auth | [Live](https://github.com/saeedasaad/Learning-Management-System) |
 | DevFlow | AI-Powered Task Manager — OpenAI integration, priority detection | [Live](https://github.com/saeedasaad/DevFlow) |
 | FitZone | Gym Management System — scheduling, payments, attendance | [Live](https://github.com/saeedasaad/Apexcify_Technologys_Gym_Fitness_Center_Management_System) |
@@ -17,7 +15,6 @@ I build full-stack web applications that are scalable, responsive, and productio
 | Trending News | Real-Time API News Portal — category filters, search | [Live](https://news-website-frontend-ochre.vercel.app/) |
 | Agriculture Dashboard | Farm Management Dashboard — Bootstrap, Chart.js, CRUD | [Live](https://agriculture-dashboard-gules.vercel.app/) |
 | E-Commerce Landing | Responsive E-Commerce Landing Page — Tailwind CSS | [Live](https://e-eommerce-website-nine.vercel.app/) |
-
 ---
 
 ###  Connect With Me
